@@ -1,0 +1,15 @@
+safras
+	ano varchar
+	escrever ano da forma correta na listagem
+
+maquinario
+	valor mudar para varchar
+	escrever ano da forma correta na listagem
+
+pessoa 
+	idade mudar para varchar
+
+contato
+	numero mudar para varchar
+	pessoa mudar para select com combo
+
